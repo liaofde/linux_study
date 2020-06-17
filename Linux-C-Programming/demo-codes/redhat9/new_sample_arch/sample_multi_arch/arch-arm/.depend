@@ -1,3 +1,0 @@
-main.o: ../src/main/main.c ../src/serial/serial.h ../src/net/net.h
-serial.o: ../src/serial/serial.c
-net.o: ../src/net/net.c

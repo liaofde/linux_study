@@ -1,4 +1,0 @@
-chat.o: \
-   chat.h
-test_chat.o: \
-   chat.h

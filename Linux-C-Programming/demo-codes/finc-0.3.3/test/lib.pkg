@@ -1,4 +1,0 @@
-struct library
-{
-	string name;
-};

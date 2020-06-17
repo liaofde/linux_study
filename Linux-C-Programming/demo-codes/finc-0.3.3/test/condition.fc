@@ -1,9 +1,0 @@
-void main(string args[])
-{
-    int i;
-
-    printf("condition test beging...\n");    
-    i = false? 100:1000;
-    
-    printf("condition ==>%d\n", i);
-}

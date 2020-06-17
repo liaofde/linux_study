@@ -1,4 +1,0 @@
-room.o: \
-   room.h
-test_room.o: \
-   room.h

@@ -1,4 +1,0 @@
-net.o: \
-   mac.h
-test_net.o: \
-   net.h

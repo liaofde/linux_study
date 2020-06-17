@@ -1,7 +1,0 @@
-package "test/pkgtest.so"
-{
-    void pkgtest();
-    int int_char( char ch );
-    char char_float( float f );
-    string string_void();
-};

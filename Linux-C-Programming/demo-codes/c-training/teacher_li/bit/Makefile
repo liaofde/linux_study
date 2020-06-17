@@ -1,2 +1,0 @@
-all:
-	gcc bit.c

@@ -1,6 +1,0 @@
-all:
-	gcc -DDEBUG -Wall maze.c -o maze.debug
-	gcc -Wall maze.c -o maze.debug
-
-clean:
-	rm maze
