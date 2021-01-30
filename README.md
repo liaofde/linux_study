@@ -1,12 +1,12 @@
 # linux_study
 
 # Linux-C-Programming
-  
+  [apue](https://github.com/MeiK2333/apue)  
   [Linux 常用C函数（中文版)](http://net.pku.edu.cn/~yhf/linux_c/)  
   [https://github.com/niushiqi/Linux-study](https://github.com/niushiqi/Linux-study)  
   [[Linux系统] 编写一个守护进程](https://www.cnblogs.com/leokale-zz/p/12163493.html)  
-  [apue](https://github.com/MeiK2333/apue)  
-
+  [UNIX再学习 -- 函数 select、poll、epoll](https://blog.csdn.net/qq_29350001/article/details/72417019)  
+ 
 # linux进程间通信
 ## 进程间通信方式
 ### 管道( pipe )
