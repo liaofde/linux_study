@@ -30,3 +30,4 @@
 
 # linux串口通信
 [Linux下串口編程遇到的接收数据错误及原因（0x0d,0x11接收错误）](https://www.cnblogs.com/zgq0/p/8078505.html)  
+[linux下串口开发有没有Mark、space校验](https://bbs.csdn.net/topics/340139489)  
