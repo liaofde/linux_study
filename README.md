@@ -8,6 +8,7 @@
   [apue](https://github.com/MeiK2333/apue)  
 
 # linux进程间通信
+## 进程间通信方式
 ### 管道( pipe )
 管道是一种半双工的通信方式，数据只能单向流动，而且只能在具有亲缘关系的进程间使用。进程的亲缘关系通常是指父子进程关系。
 ### 有名管道 (named pipe) 
@@ -22,7 +23,7 @@
 ### 套接字( socket ) 
 套接字也是一种进程间通信机制，与其他通信机制不同的是，它可用于不同及其间的进程通信。  
 
-### 进程间通信实例  
+## 进程间通信实例  
 [进程间通信-pipe/name pipe/semophore/sigal/shared memory](https://www.cnblogs.com/zgq0/p/8780893.html)  
 [进程间通信-socket](https://www.cnblogs.com/thinkinglife/p/4518353.html)  
 
