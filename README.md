@@ -21,7 +21,7 @@
 共享内存就是映射一段能被其他进程所访问的内存，这段共享内存由一个进程创建，但多个进程都可以访问。共享内存是最快的 IPC 方式，它是针对其他进程间通信方式运行效率低而专门设计的。它往往与其他通信机制，如信号两，配合使用，来实现进程间的同步和通信。
 ## 套接字( socket ) 
 套解口也是一种进程间通信机制，与其他通信机制不同的是，它可用于不同及其间的进程通信。  
-[https://www.cnblogs.com/mydomain/archive/2010/09/23/1833369.html](https://www.cnblogs.com/zgq0/p/8780893.html)  
+[进程间通信-pipe/name pipe/semophore/sigal/shared memory](https://www.cnblogs.com/zgq0/p/8780893.html)  
 [进程间通信-socket](https://www.cnblogs.com/thinkinglife/p/4518353.html)  
 
 
