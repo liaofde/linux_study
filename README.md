@@ -6,6 +6,7 @@
   [https://github.com/niushiqi/Linux-study](https://github.com/niushiqi/Linux-study)  
   [[Linux系统] 编写一个守护进程](https://www.cnblogs.com/leokale-zz/p/12163493.html)  
   [UNIX再学习 -- 函数 select、poll、epoll](https://blog.csdn.net/qq_29350001/article/details/72417019)  
+  [Linux 下多线程（C语言）](http://zhangxiaoya.github.io/2015/05/15/multi-thread-of-c-program-language-on-linux/)  
  
 # linux进程间通信
 ## 进程间通信方式
